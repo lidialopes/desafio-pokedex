@@ -1,0 +1,15 @@
+.cardContainer {
+    width: fit-content;
+}
+.cardContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cardAction {
+    color: #d1092b !important;
+}
+.disabled {
+    color: gray;
+    cursor: not-allowed !important;
+}
